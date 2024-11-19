@@ -75,4 +75,14 @@ kops update cluster --name example.k8s.local --yes --admin --state=s3://srinu202
 kubectl get nodes
 
 	Amazon wed services Aws installed. After see the aws configure and create the IAM user give access keys ,secret keys,region,ouputformat.
+![Screenshot 2024-11-19 233633](https://github.com/user-attachments/assets/d69d0e6b-8677-4517-bd32-d25b694f0407)
+![Screenshot 2024-11-19 234126](https://github.com/user-attachments/assets/215a2284-cfa6-4b23-a0c1-4933f3e8b222)
+![Screenshot 2024-11-19 234815](https://github.com/user-attachments/assets/b6ae7b7d-f3c2-441c-92cd-3682e7055571)
+![Screenshot 2024-11-19 235219](https://github.com/user-attachments/assets/242e69dd-b9ff-4f68-b7ff-ed897e2f3805)
+![Screenshot 2024-11-19 235316](https://github.com/user-attachments/assets/a24b1b45-165c-498d-a2ac-fc6bf3b94e2a)
+![Screenshot 2024-11-20 000015](https://github.com/user-attachments/assets/f76b9257-3079-4ee7-85c1-842490894eec)
+![Screenshot 2024-11-20 000038](https://github.com/user-attachments/assets/54c10c24-860a-433f-8cb0-6109fdde0352)
+![Screenshot 2024-11-20 000356](https://github.com/user-attachments/assets/ceb1a9b0-c8df-4a1b-8f78-c6b5fb275376)
+![Screenshot 2024-11-20 001734](https://github.com/user-attachments/assets/7df7d135-f5c4-4380-9100-bb8c62d7ef0d)
+![Screenshot 2024-11-20 001857](https://github.com/user-attachments/assets/80cb0f1a-ba97-4e91-9046-a2d18ecd1a67)
 
