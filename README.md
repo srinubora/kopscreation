@@ -75,3 +75,4 @@ kops update cluster --name example.k8s.local --yes --admin --state=s3://srinu202
 kubectl get nodes
 
 	Amazon wed services Aws installed. After see the aws configure and create the IAM user give access keys ,secret keys,region,ouputformat.
+
