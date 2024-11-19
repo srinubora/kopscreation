@@ -14,6 +14,7 @@ systemctl start docker
 systemctl status docker
 
 sh get-docker.sh
+![Screenshot 2024-11-19 170559](https://github.com/user-attachments/assets/464aba65-843f-4b4b-905c-3be0256bbf96)
 
 sudo curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
 
