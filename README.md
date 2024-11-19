@@ -26,7 +26,9 @@ aws configure
 
 snap info aws-cli
 
-snap install aws-cli --channel=v1/stable --classiccurl -LO https://github.com/kubernets/kops/releases/download/v1.25.0/kops-linux-amd64
+snap install aws-cli --channel=v1/stable --classic
+
+curl -LO https://github.com/kubernets/kops/releases/download/v1.25.0/kops-linux-amd64
 ![Screenshot 2024-11-19 174511](https://github.com/user-attachments/assets/d3b65c67-630b-4815-b77f-8e6a65ef00b3)
 
 chmod +x kops-linux-amd64
