@@ -59,9 +59,11 @@ aws s3api create-bucket --bucket srinu2025.local --region us-east-1
 ![Screenshot 2024-11-19 221323](https://github.com/user-attachments/assets/76f5021d-fbc7-4acc-8114-1c23f43a63ea)
 
 aws s3api put-bucket-versionning --bucket srinu2025.local --region us-east-1 --versioning-configuration Status=Enabled
+![Screenshot 2024-11-19 221515](https://github.com/user-attachments/assets/52fc781f-09d7-4cb3-ab45-275e13448b6e)
+
 
 export kpos_state_store=s3://srinu2025.local
-
+![Screenshot 2024-11-19 223142](https://github.com/user-attachments/assets/907b3740-67d1-41b8-b3f9-0c8d320f33b7)
 shh-keygen
 
 ll
