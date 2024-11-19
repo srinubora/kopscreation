@@ -53,8 +53,10 @@ source .bashrc
 kubectl version --client --output=yaml
 
 kops version
+![Screenshot 2024-11-19 220614](https://github.com/user-attachments/assets/99580087-9d3a-465c-b885-eb0188367975)
 
 aws s3api create-bucket --bucket srinu2025.local --region us-east-1
+![Screenshot 2024-11-19 221323](https://github.com/user-attachments/assets/76f5021d-fbc7-4acc-8114-1c23f43a63ea)
 
 aws s3api put-bucket-versionning --bucket srinu2025.local --region us-east-1 --versioning-configuration Status=Enabled
 
