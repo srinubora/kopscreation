@@ -38,12 +38,17 @@ ll
 mv kops-linux-amd64 /usr/local/bin/kops
 
 mv kubectl /usr/local/bin/kubectl
+
 ll
 ![Screenshot 2024-11-19 175819](https://github.com/user-attachments/assets/00741c2c-cd50-4ced-9c17-be4353eafac9)
+![Screenshot 2024-11-19 212807](https://github.com/user-attachments/assets/c957aafa-a9f7-49ef-bd58-3bd11741f453)
 
 vi  .bashrc
 
 source .bashrc
+![Screenshot 2024-11-19 213335](https://github.com/user-attachments/assets/a38a491e-e3e1-4707-8b1d-66de5fb81095)
+
+
 
 kubectl version --client --output=yaml
 
