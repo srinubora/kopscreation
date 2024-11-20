@@ -82,7 +82,9 @@ kubectl get nodes
 ![Screenshot 2024-11-19 235316](https://github.com/user-attachments/assets/a24b1b45-165c-498d-a2ac-fc6bf3b94e2a)
 ![Screenshot 2024-11-20 000015](https://github.com/user-attachments/assets/f76b9257-3079-4ee7-85c1-842490894eec)
 ![Screenshot 2024-11-20 000038](https://github.com/user-attachments/assets/54c10c24-860a-433f-8cb0-6109fdde0352)
+# S3 bucket see the entire information stored or not 
 ![Screenshot 2024-11-20 000356](https://github.com/user-attachments/assets/ceb1a9b0-c8df-4a1b-8f78-c6b5fb275376)
+# automatically creating ec2 instaces mangager load and worker loads
 ![Screenshot 2024-11-20 001734](https://github.com/user-attachments/assets/7df7d135-f5c4-4380-9100-bb8c62d7ef0d)
 ![Screenshot 2024-11-20 001857](https://github.com/user-attachments/assets/80cb0f1a-ba97-4e91-9046-a2d18ecd1a67)
 
